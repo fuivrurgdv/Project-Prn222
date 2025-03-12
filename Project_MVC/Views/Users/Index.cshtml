@@ -1,0 +1,151 @@
+﻿@model Project_MVC.Models.Users.PageResponse
+
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h1>Danh sách các nhân viên </h1>
+
+
+
+
+
+<form method="get" asp-controller="Users" asp-action="Index" class="form-inline mb-3">
+    <div>
+        <label asp-for="UserQueryParameters.Search" class="form-label">Tìm kiếm</label>
+        <input asp-for="UserQueryParameters.Search" class="form-control" placeholder="tìm kiếm theo tên" />
+    </div>
+
+    @*câu này tức là giá trị chọn sẽ bind với departmetn name*@
+    <div>
+        <label asp-for="UserQueryParameters.DepartmentId" class="form-label">Phòng ban</label>
+        <select asp-for="UserQueryParameters.DepartmentId"
+                asp-items="@(new SelectList(Model.ListDepartment, "DepartmentID", "DepartmentName", Model.UserQueryParameters.DepartmentId))"
+                class="form-control">
+            <option value="">-- Chọn phòng ban --</option>
+        </select>
+    </div>
+
+
+    <div>
+        <label asp-for="UserQueryParameters.PositionId" class="form-label">Chức vụ</label>
+        <select asp-for="UserQueryParameters.PositionId"
+                asp-items="@(new SelectList(Model.ListPosition, "PositionID", "PositionName", Model.UserQueryParameters.PositionId))"
+                class="form-control">
+            <option value="">-- Chọn chức vụ --</option>
+        </select>
+    </div>
+
+
+
+
+
+
+
+    <button type="submit" class="btn btn-primary mt-3">Tìm kiếm</button>
+    <a class="btn btn-primary mt-3" asp-action="Index" asp-controller="Users">Xóa Tìm kiếm</a>
+    <a class="btn btn-primary mt-3" asp-action="AddUser" asp-controller="Users">Thêm nhân viên</a>
+
+</form>
+
+
+<div id="employeeListContainer">
+    @* Đây là nơi hiển thị danh sách nhân viên và phân trang *@
+    @await Html.PartialAsync("_ViewPartial", Model) ;
+</div>
+
+
+
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+
+        var currentPage = 1;
+
+        function LoadPage(page) {
+
+            currentPage = page;
+
+            // if (!page) {
+            //     page = currentPage; // Nếu không có page, dùng trang đang lưu
+            // } else {
+            //     currentPage = page; // Cập nhật lại trang hiện tại
+            // }
+
+            // Lấy giá trị từ các trường tìm kiếm (các field bên ngoài container dữ liệu)
+            var search = $('input[name="UserQueryParameters.Search"]').val();
+            var departmentId = $('select[name="UserQueryParameters.DepartmentId"]').val();
+            var positionId = $('select[name="UserQueryParameters.PositionId"]').val();
+            var gender = $('input[name="UserQueryParameters.Gender"]').val();
+
+
+            $.ajax({
+                url: '@Url.Action("Index", "Users")', // API action trả về partial view danh sách nhân viên
+                type: 'GET',
+                data: {
+
+
+                    'UserQueryParameters.Search': search,
+                    'UserQueryParameters.DepartmentId': departmentId,
+                    'UserQueryParameters.PositionId': positionId,
+                    'UserQueryParameters.Gender': gender,
+                    'UserQueryParameters.CurrentPage': page
+
+                },
+                headers: { 'X-Requested-With': 'XMLHttpRequest' },
+                success: function (data) {
+                    // Cập nhật phần dữ liệu danh sách nhân viên (và phân trang nếu cần)
+
+                    $('#employeeListContainer').html(data);
+                    console.log("thanh cong");
+                },
+                error: function (xhr, status, error) {
+                    console.error(error);
+                    console.log("ko thanh cong");
+
+                }
+            });
+        }
+        $(document).on("click", ".btn-action", function () {
+            var actionType = $(this).data("action");
+            var userId = $(this).data("userid");
+            // Code xử lý click như đã làm...
+            if (actionType === "activate") {
+                if (confirm("Bạn có chắc muốn kích hoạt tài khoản này không?")) {
+                    $.ajax({
+                        url: '@Url.Action("IActiveUser", "Users")' + '/' + userId,
+                        type: 'PUT',
+                        success: function (response) {
+                            alert("Kích hoạt tài khoản thành công!");
+                            LoadPage(currentPage);
+                        },
+                        error: function (xhr, status, error) {
+                            alert("Có lỗi xảy ra: " + error);
+                        }
+                    });
+                }
+            } else if (actionType === "lock") {
+                if (confirm("Bạn có chắc muốn khóa tài khoản này không?")) {
+                    $.ajax({
+                        url: '@Url.Action("DisabeUser", "Users")' + '/' + userId,
+                        type: 'PUT',
+                        success: function (response) {
+                            alert("Khóa tài khoản thành công!");
+                            LoadPage(currentPage);
+                        },
+                        error: function (xhr, status, error) {
+                            alert("Có lỗi xảy ra: " + error);
+                        }
+                    });
+                }
+            }
+        });
+
+
+
+
+    </script>
+}
+

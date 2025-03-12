@@ -1,0 +1,9 @@
+﻿@model Project_MVC.Models.Users.AddUserRequestPage
+<div>
+    <label asp-for="UserRequest.PositionId" class="form-label">Chức vụ</label>
+    <select asp-for="UserRequest.PositionId"
+            asp-items="@Model.ListPosition.Select(d => new SelectListItem { Value = d.PositionID.ToString(), Text = d.PositionName })"
+            class="form-control">
+        <option value="">-- Chọn phòng ban --</option>
+    </select>
+</div>

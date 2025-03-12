@@ -1,0 +1,153 @@
+﻿@model Project_MVC.Models.Users.AddUserRequestPage
+
+<h1>Thêm nhân viên mới</h1>
+
+@*
+
+
+
+
+
+        [Required]
+        [MaxLength(200)]
+        public string Gender { get; set; } // giới tính
+
+
+
+        //tên mức lương
+        public string SalaryLevelName { get; set; }
+        //têm phòng ban
+        public string DepartmentlName { get; set; }
+        //tên chức vụ
+        public string PositionName { get; set; }
+
+*@
+<form method="post" asp-controller="Users" asp-action="AddUser" class="form-inline mb-3">
+
+    <div>
+        <label asp-for="UserRequest.Username" class="form-label">Username</label>
+        <input asp-for="UserRequest.Username" class="form-control" />
+        <span asp-validation-for="UserRequest.Username" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="UserRequest.Password" class="form-label">Mật khẩu</label>
+        <input asp-for="UserRequest.Password" type="password" class="form-control" />
+        <span asp-validation-for="UserRequest.Password" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="UserRequest.FirstName" class="form-label">Họ và tên</label>
+        <input asp-for="UserRequest.FirstName" class="form-control" placeholder="Họ và tên" />
+        <span asp-validation-for="UserRequest.FirstName" class="text-danger"></span>
+    </div>
+    <div style="display: none;">
+        <label asp-for="UserRequest.LastName" class="form-label">Họ và tên</label>
+        <input asp-for="UserRequest.LastName" class="form-control" value="Nguyễn Văn A" />
+    </div>
+    <div>
+        <label asp-for="UserRequest.DateOfBirth" class="form-label">Ngày sinh</label>
+        <input asp-for="UserRequest.DateOfBirth" class="form-control" />
+        <span asp-validation-for="UserRequest.DateOfBirth" class="text-danger"></span>
+    </div>
+    <div>
+        <label class="form-label">Giới tính</label>
+        <div class="form-check">
+            <input asp-for="UserRequest.Gender" class="form-check-input" type="radio" value="Male" id="genderMale" checked>
+            <label class="form-check-label" for="genderMale">Nam</label>
+        </div>
+        <div class="form-check">
+            <input asp-for="UserRequest.Gender" class="form-check-input" type="radio" value="Female" id="genderFemale">
+            <label class="form-check-label" for="genderFemale">Nữ</label>
+        </div>
+    </div>
+    <div>
+        <label asp-for="UserRequest.Address" class="form-label">Địa chỉ</label>
+        <input asp-for="UserRequest.Address" class="form-control" />
+        <span asp-validation-for="UserRequest.Address" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="UserRequest.Phone" class="form-label">Điện thoại</label>
+        <input asp-for="UserRequest.Phone" class="form-control" />
+        <span asp-validation-for="UserRequest.Phone" class="text-danger"></span>
+    </div>
+
+
+    @*câu này tức là giá trị chọn sẽ bind với departmetn name*@
+    <div>
+        <label asp-for="UserRequest.DepartmentId" class="form-label">Phòng ban</label>
+        <select asp-for="UserRequest.DepartmentId"
+                asp-items="@Model.ListDepartment.Select(d => new SelectListItem { Value = d.DepartmentID.ToString(), Text = d.DepartmentName })"
+                class="form-control"
+                onchange="fetchPositions(this.value)">
+            >
+            <option value="">-- Chọn phòng ban --</option>
+        </select>
+        <span asp-validation-for="UserRequest.DepartmentId" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="UserRequest.SalaryLevelId" class="form-label">Mức lương cơ bản</label>
+        <select asp-for="UserRequest.SalaryLevelId"
+                asp-items="@Model.ListSalaryLevelName.Select(d => new SelectListItem { Value = d.SalaryLevelId.ToString(), Text = d.LevelName })"
+                class="form-control">
+            >
+            <option value="">-- Chọn mức lương cơ bản --</option>
+        </select>
+        <span asp-validation-for="UserRequest.SalaryLevelId" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="UserRequest.PositionId" class="form-label">Chức vụ</label>
+        <select asp-for="UserRequest.PositionId"
+                class="form-control"
+                id="positionSelect">
+            <option value="">-- Chọn chức vụ --</option>
+        </select>
+        <span asp-validation-for="UserRequest.PositionId" class="text-danger"></span>
+    </div>
+
+
+
+
+    <button type="submit" class="btn btn-primary mt-3">Thêm nhân viên</button>
+
+
+</form>
+
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+
+
+        function fetchPositions(departmentId) {
+            if (!departmentId) {
+                $('#positionSelect').html('<option value="">-- Chọn chức vụ --</option>');
+                return;
+            }
+
+            $.ajax({
+                url: '@Url.Action("GetPositionsByDepartment", "Position")',
+                type: 'GET',
+                data: { DepartmentId: departmentId },
+                success: function (response) {
+                    var positionSelect = $('#positionSelect');
+                    positionSelect.empty(); // Xóa dữ liệu cũ
+                    positionSelect.append('<option value="">-- Chọn chức vụ --</option>');
+                    // console.log(response);
+                    $.each(response, function (index, position) {
+
+                        positionSelect.append('<option value="' + position.positionID + '">' + position.positionName + '</option>');
+                    });
+                    console.log("thanh cong");
+                },
+                error: function (xhr, status, error) {
+                    console.error('Lỗi:', error);
+                }
+            });
+        }
+
+
+
+
+    </script>
+}

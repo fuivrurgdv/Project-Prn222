@@ -1,0 +1,60 @@
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.AssemblyInfoInputs.cache
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.AssemblyInfo.cs
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.csproj.CoreCompileInputs.cache
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.RazorAssemblyInfo.cache
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.RazorAssemblyInfo.cs
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\appsettings.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.staticwebassets.runtime.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.exe
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.deps.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.runtimeconfig.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.dll
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.pdb
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.Project_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_MVC.props
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_MVC.props
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_MVC.props
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\bundle\Project_MVC.styles.css
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\projectbundle\Project_MVC.bundle.scp.css
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.dll
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\refint\Project_MVC.dll
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.pdb
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.genruntimeconfig.cache
+D:\PRN222\Project cuối kí\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\ref\Project_MVC.dll
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.staticwebassets.runtime.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.exe
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.deps.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.runtimeconfig.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.dll
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\bin\Debug\net8.0\Project_MVC.pdb
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.AssemblyInfoInputs.cache
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.AssemblyInfo.cs
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.csproj.CoreCompileInputs.cache
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.RazorAssemblyInfo.cache
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.RazorAssemblyInfo.cs
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.Project_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_MVC.props
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_MVC.props
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_MVC.props
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\bundle\Project_MVC.styles.css
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\scopedcss\projectbundle\Project_MVC.bundle.scp.css
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.dll
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\refint\Project_MVC.dll
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.pdb
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\Project_MVC.genruntimeconfig.cache
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_MVC\obj\Debug\net8.0\ref\Project_MVC.dll

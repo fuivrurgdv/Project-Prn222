@@ -1,0 +1,123 @@
+﻿@model List<Project_MVC.Models.Setting.SettingDTO>
+@{
+    ViewData["Title"] = "Danh sách thiết lập thòi gian chấm công";
+}
+<h1 class="bg-light text-info">Quản lí chấm công </h1>   
+<h1> Danh sách thời gian chấm công đã tạo</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+
+            <th>ID</th>
+            <th>Thời gian vào</th>
+            <th>Thời gian ra</th>
+            <th>Thời gian tạo</th>
+            <th>Trạng thái</th>
+            <th>Hoạt động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dept in Model)
+        {
+            <tr>
+
+                <td>@dept.ShiftSettingID</td>
+                <td>@dept.ClockInTime.ToString("HH:mm")</td>
+                <td>@dept.ClockOutTime.ToString("HH:mm")</td>
+                <td>@dept.CreateDay.ToString("dd-MM-yyyy HH:mm:ss")</td>
+                <td>
+                    @if (dept.IsActive)
+                    {
+                        <span class="btn-success">Hoạt động</span>
+                    }
+                    else
+                    {
+                        <span class="btn-danger">Bị khóa</span>
+                    }
+
+
+
+                <td>
+
+
+
+                        @if (dept.IsActive)
+                        {
+                        <!-- Nút khóa tài khoản -->
+                        <button type="button" class="btn btn-danger  mt-3 btn-action" data-userid="@dept.ShiftSettingID" data-action="lock">Khóa </button>
+                        }
+                        else
+                        {
+                        <!-- Nút kích hoạt tài khoản -->
+                        <button type="button" class="btn  btn-success mt-3 btn-action" data-userid="@dept.ShiftSettingID" data-action="activate">Kích hoạt</button>
+                        }
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" asp-action="CreateSetting">Thêm thời gian chấm công mới</a>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+
+
+        $(document).on("click", ".btn-action", function () {
+            var actionType = $(this).data("action");
+            var userId = $(this).data("userid");
+            // Code xử lý click như đã làm...
+            if (actionType === "activate") {
+                if (confirm("Bạn có chắc muốn kích hoạt thời gian chấm công này không?")) {
+                    $.ajax({
+
+                        url: '@Url.Action("IActiveSetting", "Setting")' + '/' + userId,
+                        type: 'PUT',
+                        success: function (response) {
+                            alert("Kích hoạt phòng ban thành công!");
+                            location.reload();
+
+                        },
+                        error: function (xhr, status, error) {
+                            alert("Có lỗi xảy ra: " + error);
+                        }
+                    });
+                }
+            } else if (actionType === "lock") {
+                if (confirm("Bạn có chắc muốn khóa thời gian chấm công này không?")) {
+                    $.ajax({
+                        url: '@Url.Action("DisabeSetting", "Setting")' + '/' + userId,
+                        type: 'PUT',
+                        success: function (response) {
+                            alert("Khóa thời gian thành công!");
+                            location.reload();
+
+                        },
+                        error: function (xhr, status, error) {
+                            alert("Có lỗi xảy ra: " + error);
+                        }
+                    });
+                }
+            }
+        });
+
+
+
+
+    </script>
+}
+

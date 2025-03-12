@@ -1,0 +1,89 @@
+﻿@model Project_MVC.Models.Users.PageResponse
+
+<table class="table table-bordered">
+    <thead>
+
+        <tr>
+            <th>Tên nhân viên</th>
+            <th>Ngày sinh</th>
+            <th>Giới tính</th>
+            <th>Ngày bắt đầu làm việc</th>
+            <th>Phòng ban</th>
+            <th>Chức vụ</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.UserResponseQuery.Data != null && Model.UserResponseQuery.Data.Any())
+        {
+            foreach (var nhanvien in Model.UserResponseQuery.Data)
+            {
+                <tr>
+                    <td>@nhanvien.FirstName</td>
+                    <td>@nhanvien.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                    <td>@(nhanvien.Gender == "Male" ? "Nam" : "Nữ")</td>
+                    <td>@nhanvien.DateJoined.ToString("dd/MM/yyyy")</td>
+                    <td>@nhanvien.DepartmentName</td>
+                    <td>@nhanvien.PositionName</td>
+                    <td>
+
+                        @if (@nhanvien.IsActive)
+                        {
+                            <span class="btn-success">Hoạt động</span>
+                        }
+                        else
+                        {
+                            <span class="btn-danger">Bị khóa</span>
+                        }
+
+
+
+                    </td>
+                    <td>
+
+                        <a class="btn btn-primary mt-3" asp-action="GetUserById" asp-controller="Users" asp-route-id="@nhanvien.UserID">Chi tiết</a>
+                        <a class="btn btn-primary mt-3" asp-action="GetUserById" asp-controller="Users" asp-route-id="@nhanvien.UserID">Chuyển phòng ban</a>
+                        
+                        @if (nhanvien.IsActive)
+                        {
+                            <!-- Nút khóa tài khoản -->
+                            <button type="button" class="btn btn-success mt-3 btn-action" data-userid="@nhanvien.UserID" data-action="lock">Khóa tài khoản</button>
+                        }
+                        else
+                        {
+                            <!-- Nút kích hoạt tài khoản -->
+                            <button type="button" class="btn btn-danger mt-3 btn-action" data-userid="@nhanvien.UserID" data-action="activate">Kích hoạt tài khoản</button>
+                        }
+                        
+                        
+
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="10" class="text-center">Không có nhân viên thỏa mãn</td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.UserResponseQuery.TotalPages; ++i)
+        {
+            <li class="page-item @(i == Model.UserResponseQuery.CurrentPage? "active":"")">
+                <a class="page-link" href="#" onclick="LoadPage(@i)">@i</a>
+            </li>
+        }
+
+    </ul>
+</nav>
+
+

@@ -1,0 +1,121 @@
+﻿@model Project_MVC.Models.Users.UserDTOView
+
+@{
+    ViewData["Title"] = "Thông tin nhân viên";
+}
+
+<h1 class="bg-light text-success">Thông tin chi tiết của nhân viên</h1>
+<a href="@Url.Action("Index", "Users")" class="btn btn-link mb-3 text-decoration-none">Quay trở lại trang tìm kiếm nhân viên</a> 
+
+<div class="container mt-4">
+    <div class="row">
+        <!-- Phần hình ảnh: chiếm khoảng 4 cột -->
+        <div class="col-md-4">
+            <div class="card">
+                <!-- Giả sử bạn có một URL hình ảnh từ model hoặc sử dụng hình ảnh mặc định -->
+                <img src="~/images/default-profile.png" class="card-img-top img-fluid" alt="Ảnh nhân viên" />
+            </div>
+        </div>
+        <!-- Phần thông tin chi tiết: chiếm 8 cột -->
+        <div class="col-md-8">
+            <table class="table table-borderless">
+                <tbody>
+                    <tr>
+                        <th style="width:30%;">Tên nhân viên:</th>
+                        <td>@Model.UserDTO.FirstName @Model.UserDTO.LastName</td>
+                    </tr>
+                    <tr>
+                        <th>Ngày sinh:</th>
+                        <td>@Model.UserDTO.DateOfBirth.ToString("dd/MM/yyyy")</td>
+                    </tr>
+                    <tr>
+                        <th>Giới tính:</th>
+                        <td>@(Model.UserDTO.Gender == "Male" ? "Nam" : "Nữ")</td>
+                    </tr>
+                    <tr>
+                        <th>Điện thoại:</th>
+                        <td>@Model.UserDTO.Phone</td>
+                    </tr>
+                    <tr>
+                        <th>Ngày vào làm:</th>
+                        <td>@Model.UserDTO.DateJoined.ToString("dd/MM/yyyy")</td>
+                    </tr>
+                    <tr>
+                        <th>Phòng ban:</th>
+                        <td>@Model.UserDTO.DepartmentName</td>
+                    </tr>
+                    <tr>
+                        <th>Chức vụ:</th>
+                        <td>@Model.UserDTO.PositionName</td>
+                    </tr>
+                    <tr>
+                        <th>Mức lương cơ bản:</th>
+                        <td> Mức @Model.UserDTO.SalaryLevelName</td>
+                    </tr>
+                    <tr>
+                        <th>Vai trò:</th>
+                        <td>@Model.UserDTO.RoleName</td>
+                    </tr>
+                    <tr>
+                        <th>Trạng thái hoạt động:</th>
+                        <td>@(Model.UserDTO.IsActive ? "Hoạt động" : "Bị khóa")</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        
+        <h1 class="bg-light text-success">Quá trình làm việc</h1>
+        <table class="table table-bordered">
+            <thead>
+
+                <tr>
+                    <th>Phòng ban</th>
+                    <th>Chức vụ</th>
+                    <th>Ngày bắt đầu làm việc</th>
+                    <th>Ngày kết thúc nhiệm vụ</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.HistoryWork.Count != 0 )
+                {
+                    foreach (var nhanvien in Model.HistoryWork)
+                    {
+                        <tr>
+                            <td>@nhanvien.DepartmentName</td>
+                            <td>@nhanvien.PositionName</td>
+                            <td>@nhanvien.StartDate.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                @if (nhanvien.EndDate  == null)
+                                {
+                                    <span>Đang làm việc</span>
+                                }
+                                else
+                                {
+                                    <span>@nhanvien.EndDate.Value.ToString("dd/MM/yyyy")</span>
+                                }
+
+                      
+
+                            </td>
+                            
+
+
+                           
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="10" class="text-center">Không có bản ghi</td>
+                    </tr>
+                }
+            </tbody>
+
+
+        </table>
+        
+    </div>
+</div>

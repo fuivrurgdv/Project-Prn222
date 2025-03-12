@@ -1,0 +1,1896 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|d:\\prn222\\project cu\u1ED1i k\u00ED\\projectprn222_asignmet\\project_api\\controllers\\attendencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\attendencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\project_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\project_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\project_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\project_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\attendance\\userattendencequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\attendance\\userattendencequeryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\users\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\users\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\attendance\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\attendance\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\users\\userresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\users\\userresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\users\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\users\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\attendence\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\attendence\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\salarylevelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\salarylevelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\setting\\settingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\setting\\settingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\setting\\settingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\setting\\settingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\setting\\settingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\setting\\settingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\setting\\settingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\setting\\settingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\attendence\\historyattendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\attendence\\historyattendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\attendence\\attendancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\attendence\\attendancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\attendence\\attendences_employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\attendence\\attendences_employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\shiftsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\shiftsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\setting\\createsetting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\setting\\createsetting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\users\\_viewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\users\\_viewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\department\\createdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\department\\createdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309120639_update_ver_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250309120639_update_ver_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dbcontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dbcontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\salarylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\salarylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\employeedepartmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\employeedepartmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\userqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\adduserrequestpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\adduserrequestpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\department\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\department\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\department\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\department\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\userresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\userresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\userdtoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\userdtoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\salarylevel\\salaryleveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\salarylevel\\salaryleveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\users\\informationuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\users\\informationuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\salarylevel\\salaryleveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\salarylevel\\salaryleveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\position\\_viewpartialposition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\position\\_viewpartialposition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\position\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\position\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\history\\historywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\history\\historywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\historywork\\historywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\historywork\\historywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\users\\usertranferdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\users\\usertranferdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\auth\\apiloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\auth\\apiloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\position\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\position\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\models\\auth\\loginmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\auth\\loginmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32625A9-5ABB-457C-8A3E-9B5914884A44}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\dto\\position\\positionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\dto\\position\\positionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221356_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228221356_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221142_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228221142_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221053_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228221053_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152843_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228152843_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\data\\model\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\data\\model\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152555_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228152555_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054612_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_API\\Migrations\\20250228054612_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\project_api\\project_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:project_api\\project_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228061723_updateDbSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228061723_updateDbSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228060856_updatePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228060856_updatePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228055641_updateAuthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228055641_updateAuthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054702_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228054702_InitDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228091151_updateDepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228091151_updateDepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250301095546_updte_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250301095546_updte_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228222016_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250228222016_updte_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309044547_updateSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250309044547_updateSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309165330_update_tiepthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250309165330_update_tiepthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310150421_updae12322333.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69EDF97-6205-4E75-B5C5-9BE2629EE556}|Project_API\\Project_API.csproj|solutionrelative:Project_API\\Migrations\\20250310150421_updae12322333.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendencesController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\AttendencesController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\AttendencesController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\AttendencesController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\AttendencesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:09:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAACAmZmZmRkmwCoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T19:01:07.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project_MVC.csproj",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Project_MVC.csproj",
+              "RelativeDocumentMoniker": "Project_MVC\\Project_MVC.csproj",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Project_MVC.csproj",
+              "RelativeToolTip": "Project_MVC\\Project_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T02:21:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project_API.csproj",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Project_API.csproj",
+              "RelativeDocumentMoniker": "Project_API\\Project_API.csproj",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Project_API.csproj",
+              "RelativeToolTip": "Project_API\\Project_API.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T04:59:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:47:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\SalaryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:50:31.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAiwLEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:46:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:13:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\User.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\User.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\User.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA8wCsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:29:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Attendance.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\Attendance.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Attendance.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:15:50.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Users\\UserRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserRequest.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Users\\UserRequest.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA8wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:05:37.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserQueryParameters.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserQueryParameters.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Users\\UserQueryParameters.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserQueryParameters.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Users\\UserQueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:49:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAQwKoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:51:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\SettingController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:09:26.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AttendenceController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\AttendenceController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\AttendenceController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\AttendenceController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\AttendenceController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAKsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:02:14.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAttendenceQueryParameters.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Attendance\\UserAttendenceQueryParameters.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Attendance\\UserAttendenceQueryParameters.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Attendance\\UserAttendenceQueryParameters.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Attendance\\UserAttendenceQueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:13:12.215Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserResponseQuery.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserResponseQuery.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Users\\UserResponseQuery.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserResponseQuery.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Users\\UserResponseQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:53:09.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Attendance\\AttendanceDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Attendance\\AttendanceDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Attendance\\AttendanceDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Attendance\\AttendanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:51:22.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20250310150421_updae12322333.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310150421_updae12322333.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250310150421_updae12322333.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310150421_updae12322333.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250310150421_updae12322333.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:04:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Attendence\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Attendence\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:07:16.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAOEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:24:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\APIResponse\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\APIResponse\\APIResponse.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\APIResponse\\APIResponse.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\APIResponse\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:50:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:07:19.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\SettingController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:58:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SalaryLevelController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\SalaryLevelController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\SalaryLevelController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\SalaryLevelController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\SalaryLevelController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:04:49.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\PositionController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwBYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:36:05.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\APIResponse\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\APIResponse\\APIResponse.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\APIResponse\\APIResponse.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\APIResponse\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:35:12.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SettingDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Setting\\SettingDTO.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Setting\\SettingDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Setting\\SettingDTO.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Setting\\SettingDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:56:33.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Program.cs",
+              "RelativeToolTip": "Project_MVC\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:28:20.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_MVC\\appsettings.json",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\appsettings.json",
+              "RelativeToolTip": "Project_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T08:55:04.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SettingDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Setting\\SettingDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Setting\\SettingDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Setting\\SettingDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Setting\\SettingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:23:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SettingRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Setting\\SettingRequest.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Setting\\SettingRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Setting\\SettingRequest.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Setting\\SettingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:21:24.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SettingRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Setting\\SettingRequest.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Setting\\SettingRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Setting\\SettingRequest.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Setting\\SettingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:56:54.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HistoryAttendence.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\HistoryAttendence.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Attendence\\HistoryAttendence.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\HistoryAttendence.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Attendence\\HistoryAttendence.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:10:28.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AttendanceRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Attendence\\AttendanceRequest.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Attendence\\AttendanceRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Attendence\\AttendanceRequest.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Attendence\\AttendanceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:39:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:59:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Attendences_Employees.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\Attendences_Employees.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Attendence\\Attendences_Employees.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Attendence\\Attendences_Employees.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Attendence\\Attendences_Employees.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:07:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T02:17:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T06:13:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Setting\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Setting\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Setting\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Setting\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T03:54:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:00:20.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20250310043034_update_t\u01B0eptheo.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250310043034_update_t\u01B0eptheo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:30:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShiftSetting.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\ShiftSetting.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\ShiftSetting.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\ShiftSetting.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\ShiftSetting.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:04:26.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20250309165330_update_tiepthep.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309165330_update_tiepthep.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250309165330_update_tiepthep.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309165330_update_tiepthep.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250309165330_update_tiepthep.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:53:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateSetting.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Setting\\CreateSetting.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Setting\\CreateSetting.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Setting\\CreateSetting.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Setting\\CreateSetting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T03:55:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAHAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T08:50:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateDepartments.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\CreateDepartments.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Department\\CreateDepartments.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\CreateDepartments.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Department\\CreateDepartments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T13:28:08.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:12:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewPartial.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\_ViewPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Users\\_ViewPartial.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\_ViewPartial.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Users\\_ViewPartial.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T10:00:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Users\\AddUser.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\AddUser.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Users\\AddUser.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T09:56:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250309120639_update_ver_2_1.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309120639_update_ver_2_1.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250309120639_update_ver_2_1.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309120639_update_ver_2_1.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250309120639_update_ver_2_1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:06:39.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T08:52:10.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20250309044547_updateSetting.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309044547_updateSetting.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250309044547_updateSetting.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250309044547_updateSetting.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250309044547_updateSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:45:48.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\dbContext\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\dbContext\\MyDBContext.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\dbContext\\MyDBContext.cs",
+              "RelativeToolTip": "Project_API\\Data\\dbContext\\MyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:38:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\PositionController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:05:04.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SalaryLevel.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\SalaryLevel.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\SalaryLevel.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\SalaryLevel.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\SalaryLevel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:18:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Project_API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Project_API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:45:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Permission.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\Permission.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Permission.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:53:42.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\Department.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Department.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:31:21.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\UserRole.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\UserRole.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\UserRole.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:52:05.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmployeeDepartmentHistory.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\EmployeeDepartmentHistory.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\EmployeeDepartmentHistory.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\EmployeeDepartmentHistory.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\EmployeeDepartmentHistory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:33:59.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserQueryParameters.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserQueryParameters.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\UserQueryParameters.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserQueryParameters.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\UserQueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:57:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Department\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Department\\DepartmentDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Department\\DepartmentDTO.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Department\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:13:18.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AddUserRequestPage.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\AddUserRequestPage.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\AddUserRequestPage.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\AddUserRequestPage.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\AddUserRequestPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:13:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PageResponse.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\PageResponse.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\PageResponse.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\PageResponse.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\PageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:37:33.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DepartmentRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Department\\DepartmentRequest.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Department\\DepartmentRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Department\\DepartmentRequest.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Department\\DepartmentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:23:52.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DepartmentRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Department\\DepartmentRequest.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Department\\DepartmentRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Department\\DepartmentRequest.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Department\\DepartmentRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:34:06.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserDTOView.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserDTOView.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\UserDTOView.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserDTOView.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\UserDTOView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:17:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\UserRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserRequest.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\UserRequest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:57:57.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserResponseQuery.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserResponseQuery.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\UserResponseQuery.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserResponseQuery.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\UserResponseQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:24:26.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SalaryLevelDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\SalaryLevel\\SalaryLevelDTO.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\SalaryLevel\\SalaryLevelDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\SalaryLevel\\SalaryLevelDTO.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\SalaryLevel\\SalaryLevelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:03:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T03:38:38.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "InformationUser.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\InformationUser.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Users\\InformationUser.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Users\\InformationUser.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Users\\InformationUser.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAG8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T09:36:59.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SalaryLevelDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\SalaryLevel\\SalaryLevelDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\SalaryLevel\\SalaryLevelDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\SalaryLevel\\SalaryLevelDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\SalaryLevel\\SalaryLevelDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:55:59.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Users\\UserDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Users\\UserDTO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:23:36.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Users\\UserDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Users\\UserDTO.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Users\\UserDTO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:23:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewPartialPosition.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Position\\_ViewPartialPosition.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Position\\_ViewPartialPosition.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\Position\\_ViewPartialPosition.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Position\\_ViewPartialPosition.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T04:18:19.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PositionDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Position\\PositionDTO.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Position\\PositionDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Position\\PositionDTO.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Position\\PositionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:44:22.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:56:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HistoryWork.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\History\\HistoryWork.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\History\\HistoryWork.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\History\\HistoryWork.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\History\\HistoryWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:21:42.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HistoryWork.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\HistoryWork\\HistoryWork.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\HistoryWork\\HistoryWork.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\HistoryWork\\HistoryWork.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\HistoryWork\\HistoryWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:27:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserTranferDepartment.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserTranferDepartment.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Users\\UserTranferDepartment.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Users\\UserTranferDepartment.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Users\\UserTranferDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:49:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Program.cs",
+              "RelativeDocumentMoniker": "Project_API\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Program.cs",
+              "RelativeToolTip": "Project_API\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:03:48.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Login\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Login\\LoginDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Login\\LoginDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Login\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:06:21.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Department\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Department\\DepartmentDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Department\\DepartmentDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Department\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:56:26.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "APILoginResponse.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Auth\\APILoginResponse.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Auth\\APILoginResponse.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Auth\\APILoginResponse.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Auth\\APILoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:38:10.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PositionDTO.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Position\\PositionDTO.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Position\\PositionDTO.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Position\\PositionDTO.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Position\\PositionDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:03:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T02:17:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LoginModelRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Auth\\LoginModelRequest.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\Auth\\LoginModelRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_MVC\\Models\\Auth\\LoginModelRequest.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\Auth\\LoginModelRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:15:40.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\Role.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Role.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:51:17.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "PositionRequest.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Position\\PositionRequest.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\DTO\\Position\\PositionRequest.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\DTO\\Position\\PositionRequest.cs",
+              "RelativeToolTip": "Project_API\\Data\\DTO\\Position\\PositionRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:11:50.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Position.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\Position.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\Position.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\Position.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:32:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20250301095546_updte_v3.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250301095546_updte_v3.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250301095546_updte_v3.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250301095546_updte_v3.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250301095546_updte_v3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:55:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20250228222016_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228222016_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228222016_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228222016_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228222016_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:20:17.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20250228221356_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221356_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228221356_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221356_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228221356_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:13:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20250228221142_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221142_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228221142_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221142_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228221142_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:11:42.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250228221053_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221053_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228221053_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228221053_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228221053_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:10:53.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20250228152843_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152843_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228152843_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152843_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228152843_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:28:43.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\RolePermission.cs",
+              "RelativeDocumentMoniker": "Project_API\\Data\\Model\\RolePermission.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Data\\Model\\RolePermission.cs",
+              "RelativeToolTip": "Project_API\\Data\\Model\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:54:55.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20250228152555_updte_v2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152555_updte_v2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228152555_updte_v2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152555_updte_v2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228152555_updte_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:25:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20250228152037_updateSalaryLevel_2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228152037_updateSalaryLevel_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:20:37.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20250228151524_updateSalaryLevel_2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228151524_updateSalaryLevel_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:15:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20250228151302_updateSalaryLevel_2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228151302_updateSalaryLevel_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:13:02.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20250228150704_updateSalaryLevel_2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228150704_updateSalaryLevel_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:07:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250228150918_updateSalaryLevel_2.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228150918_updateSalaryLevel_2.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:09:18.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250228145522_updateSalaryLevel.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228145522_updateSalaryLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:55:23.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250228061723_updateDbSet.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228061723_updateDbSet.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228061723_updateDbSet.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228061723_updateDbSet.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228061723_updateDbSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:17:24.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20250228091151_updateDepartment.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228091151_updateDepartment.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228091151_updateDepartment.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228091151_updateDepartment.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228091151_updateDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:11:51.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20250228060856_updatePassword.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228060856_updatePassword.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228060856_updatePassword.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228060856_updatePassword.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228060856_updatePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:08:56.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20250228055641_updateAuthorize.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228055641_updateAuthorize.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228055641_updateAuthorize.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228055641_updateAuthorize.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228055641_updateAuthorize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:56:41.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20250228054702_InitDb.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054702_InitDb.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228054702_InitDb.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054702_InitDb.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228054702_InitDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:47:03.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20250228054612_InitDb.cs",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054612_InitDb.cs",
+              "RelativeDocumentMoniker": "Project_API\\Migrations\\20250228054612_InitDb.cs",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Migrations\\20250228054612_InitDb.cs",
+              "RelativeToolTip": "Project_API\\Migrations\\20250228054612_InitDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:46:12.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_API\\appsettings.json",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\appsettings.json",
+              "RelativeToolTip": "Project_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T05:26:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Project_API.http",
+              "DocumentMoniker": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Project_API.http",
+              "RelativeDocumentMoniker": "Project_API\\Project_API.http",
+              "ToolTip": "D:\\PRN222\\Project cu\u1ED1i k\u00ED\\ProjectPRN222_Asignmet\\Project_API\\Project_API.http",
+              "RelativeToolTip": "Project_API\\Project_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-28T05:26:55.124Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

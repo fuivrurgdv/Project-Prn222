@@ -1,0 +1,23 @@
+﻿@model Project_MVC.Models.Setting.SettingRequest
+@{
+    ViewData["Title"] = "Thêm thời gian chấm công mới";
+}
+<h1 class="bg-light text-info">Quản lí chấm công </h1>
+<h1>Thêm thời gian chấm công mới</h1>
+
+
+<form asp-controller="Setting" asp-action="CreateSetting" method="post">
+    <div class="form-group">
+        <label asp-for="ClockInTime" class="form-label">Thời gian vào</label>
+        <input asp-for="ClockInTime" class="form-control" type="time" step="1" />
+        <span asp-validation-for="ClockInTime" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ClockOutTime" class="form-label">Thời gian ra</label>
+        <input asp-for="ClockOutTime" class="form-control" type="time" step="1" />
+        <span asp-validation-for="ClockOutTime" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Thêm</button>
+    <a class="btn btn-primary mt-3" asp-action="GetSetting" asp-controller="Setting">Về trang setting thời gian</a>
+</form>

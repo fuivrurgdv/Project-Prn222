@@ -1,0 +1,38 @@
+﻿@model Project_MVC.Models.Setting.SettingDTO
+@{
+    ViewData["Title"] = "Danh sách thiết lập thòi gian chấm công";
+}
+
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<!-- Phần nội dung chính -->
+<div class="container my-5">
+    <h2 class="text-center mb-4">Chấm công : Check In/Out</h2>
+    <h2 class="text-center mb-4">Ngày : @DateTime.Now.ToString("dd-MM-yyyy")</h2>
+    <h2 class="text-center mb-4">Thời gian vào trước :<span class="text-danger">@Model.ClockInTime.TimeOfDay,  @DateTime.Now.ToString("dd-MM-yyyy")</span>  </h2>
+    <h2 class="text-center mb-4">Thời gian ra sau :<span class="text-danger">@Model.ClockOutTime.TimeOfDay,  @DateTime.Now.ToString("dd-MM-yyyy")</span>   </h2>
+
+    <div class="text-center">
+        <form class="mb-3" method="post" asp-action="CheckIn" asp-controller="Attendence" asp-route-id="">
+            <button type="submit" class="btn btn-primary btn-lg me-3">Check In</button>
+        </form>
+
+        <form class="mb-3" method="post" asp-action="CheckOut" asp-controller="Attendence" asp-route-id="">
+            <button id="checkOutBtn" class="btn btn-danger btn-lg">Check Out</button>
+        </form>
+
+        
+
+
+    </div>
+</div>
+
+
