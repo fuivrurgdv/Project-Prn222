@@ -288,3 +288,4 @@ C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_API\obj\Debug\net8.0\re
 C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_API\obj\Debug\net8.0\Project_API.pdb
 C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_API\obj\Debug\net8.0\Project_API.genruntimeconfig.cache
 C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_API\obj\Debug\net8.0\ref\Project_API.dll
+C:\Users\quangcto\Desktop\ProjectPRN222_Asignmet\Project_API\obj\Debug\net8.0\Project_API.sourcelink.json

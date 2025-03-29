@@ -1,0 +1,76 @@
+﻿@model Project_MVC.Models.LeaveRequest.SendLeaveRequest
+
+@{
+    ViewData["Title"] = "Send";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<h1>Send</h1>
+
+<h4>SendLeaveRequest</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="LeaveRequest" asp-action="SendLeaveRequest" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div id="dateFields" style="display: none;">
+                <div class="form-group">
+                    <label asp-for="StartDate" class="control-label"></label>
+                    <input asp-for="StartDate" class="form-control" id="startDate" />
+                    <span asp-validation-for="StartDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EndDate" class="control-label"></label>
+                    <input asp-for="EndDate" class="form-control" id="endDate" />
+                    <span asp-validation-for="EndDate" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LeaveType" class="control-label"></label>
+                <select asp-for="LeaveType" class="form-control" id="leaveType">
+                    <option value="morning">Nghỉ buổi sáng</option>
+                    <option value="afternoon">Nghỉ buổi chiều</option>
+                    <option value="multiple_days">Nghỉ nhiều ngày</option>
+                </select>
+                <span asp-validation-for="LeaveType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Reason" class="control-label"></label>
+                <input asp-for="Reason" class="form-control" />
+                <span asp-validation-for="Reason" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+<script>
+    document.getElementById("leaveType").addEventListener("change", function () {
+        var leaveType = this.value;
+        var dateFields = document.getElementById("dateFields");
+
+        if (leaveType === "multiple_days") {
+            dateFields.style.display = "block"; // Hiện StartDate & EndDate
+        } else {
+            dateFields.style.display = "none";  // Ẩn StartDate & EndDate
+        }
+    });
+</script>

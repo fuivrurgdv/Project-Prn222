@@ -1,0 +1,100 @@
+﻿@model List<Project_MVC.Models.LeaveRequest.LeaveRequestDTO>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                RequestID
+            </th>
+            <th>
+                StartDate
+            </th>
+            <th>
+                EndDate
+            </th>
+            <th>
+                Reason
+            </th>
+            
+            <th>
+                UserID
+            </th>
+            <th>
+                Status
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @item.StartDate
+            </td>
+            <td>
+                @item.EndDate
+            </td>
+            <td>
+                 @item.Reason
+            </td>
+            <td>
+                @item.UserID
+            </td>
+                <td>
+                    @if (item.status == 0)
+                    {
+                        <span class="badge bg-warning">Chờ duyệt</span>
+                    }
+                    else if (item.status == 1)
+                    {
+                        <span class="badge bg-success">Đã duyệt</span>
+                    }
+                    else if (item.status == 2)
+                    {
+                        <span class="badge bg-danger">Từ chối</span>
+                    }
+                </td>
+            <td>
+                
+                        @if (item.status == 0) // Nếu trạng thái là "Chờ duyệt"
+                        {
+                        <div>
+                            <form asp-action="UpdateStatus" method="post" asp-route-id="@item.RequestID">
+                                <input type="hidden" name="RequestID" value="@item.RequestID" />
+                                <input type="hidden" name="status" value="1" />
+                            <button type="submit" class="btn btn-success btn-sm">Duyệt</button>
+                            
+                        </form>
+                            <form asp-action="UpdateStatus" method="post" asp-route-id="@item.RequestID">
+                                <input type="hidden" name="RequestID" value="@item.RequestID" />
+                                <input type="hidden" name="status" value="2" />
+                            
+                            <button type="submit"  class="btn btn-danger btn-sm">Từ chối</button>
+                        </form>
+                        </div>
+                        }
+                        
+                
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

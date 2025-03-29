@@ -36,6 +36,9 @@ namespace Project_API.Migrations
                     b.Property<DateTime?>("ClockOut")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Notification")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("ScheduledClockIn")
                         .HasColumnType("datetime2");
 
@@ -120,6 +123,48 @@ namespace Project_API.Migrations
                     b.HasIndex("UserID");
 
                     b.ToTable("EmployeeDepartmentHistories");
+                });
+
+            modelBuilder.Entity("Project_API.Data.Model.LeaveRequests", b =>
+                {
+                    b.Property<int>("RequestID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RequestID"));
+
+                    b.Property<int?>("ApproveBy")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("EndDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("LeaveType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Reason")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("StartDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("duration")
+                        .HasColumnType("int");
+
+                    b.Property<bool?>("isPaid")
+                        .HasColumnType("bit");
+
+                    b.Property<int?>("status")
+                        .HasColumnType("int");
+
+                    b.HasKey("RequestID");
+
+                    b.HasIndex("UserID");
+
+                    b.ToTable("LeaveRequests");
                 });
 
             modelBuilder.Entity("Project_API.Data.Model.Permission", b =>
@@ -390,6 +435,17 @@ namespace Project_API.Migrations
                     b.Navigation("Department");
 
                     b.Navigation("Position");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Project_API.Data.Model.LeaveRequests", b =>
+                {
+                    b.HasOne("Project_API.Data.Model.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("User");
                 });

@@ -17,7 +17,7 @@ namespace Project_API.Data.Model
 
         public double? ToTalHours { get; set; }
 
-
+        public string? Notification {  get; set; }
 
 
 
